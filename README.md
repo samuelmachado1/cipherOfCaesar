@@ -1,7 +1,7 @@
+# cipherOfCaesar
 
 #####  ENGLISH VERSION  #####
 
-# cipherOfCaesar
 
 Working with Cryptography
 
@@ -15,11 +15,10 @@ Normal: the slight brown fox jumped on the tired dog
 Encrypted: d oljhlud udsrvd pduurp vdowrx vreuh r fdfkruur fdqvdgr
 
 
+# cifraDeCésar
+
 
 #####  PORTUGUESE VERSION  #####
-
-
-# cifraDeCésar
 
 Trabalhando com Criptografia
 
