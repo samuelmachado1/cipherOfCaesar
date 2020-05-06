@@ -1,7 +1,9 @@
 import json, requests
 import hashlib
 
+# Request the JSON file with the encrypted message and the fields to be filled after the decryption
 response = requests.get('https://api.codenation.dev/v1/challenge/dev-ps/generate-data?token=YouToken')
+
 
 def get_characters():
     list = []

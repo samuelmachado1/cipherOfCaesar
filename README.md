@@ -1,7 +1,7 @@
 # cipherOfCaesar
 
 #####  ENGLISH VERSION  #####
-
+Program that requests from the API with GET method a JSON file that contains an encrypted message and fields to be filled, decrypts the message, fills in the required fields of the JSON file and sends it back to the API as multipart / form-data file
 
 Working with Cryptography
 
@@ -19,6 +19,7 @@ Encrypted: d oljhlud udsrvd pduurp vdowrx vreuh r fdfkruur fdqvdgr
 
 
 #####  PORTUGUESE VERSION  #####
+Programa que requisita da API com método GET um arquivo JSON que contém uma mensagem criptografáda e campos a serem preenchidos , decripta a mensagem, preenche os campos necessário do arquivo JSON e envia de volta para API como arquvio multipart/form-data
 
 Trabalhando com Criptografia
 
