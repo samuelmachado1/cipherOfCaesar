@@ -1,13 +1,14 @@
 
-######################################################################################################
-######################################  ENGLISH VERSION  ##########################################
-######################################################################################################
+################################################################################################
 
+#####  ENGLISH VERSION  #####
+
+################################################################################################
 # cipherOfCaesar
 
 Working with Cryptography
 
-Cryptography by Júlio César Segundo or Wikipedia, cryptography or cryptology (in Greek: kryptós, "hidden", and gráphein, "writing") is the study and practice of methods and techniques for secure communication in the presence of third parties, including "opponents" . But generally, encryption refers to the construction and analysis of protocols that prevent third parties, or the public, from reading private messages. Many aspects of information security, such as confidentiality, data integrity, authentication and non-repudiation, are central to modern cryptography. E-commerce encryption applications, chip-based payment cards, digital currencies, computer passwords and military communications. The most curious Cryptographies in the history of mankind can quote a cryptography caused by the greatest Roman military leader Julius Caesar to communicate with his generals.
+Cryptography by Júlio César Segundo or Wikipedia, cryptography or cryptology (in Greek: kryptós,"hidden", and gráphein, "writing") is the study and practice of methods and techniques for secure communication in the presence of third parties, including "opponents" . But generally, encryption refers to the construction and analysis of protocols that prevent third parties, or the public, from reading private messages. Many aspects of information security, such as confidentiality, data integrity, authentication and non-repudiation, are central to modern cryptography. E-commerce encryption applications, chip-based payment cards, digital currencies, computer passwords and military communications. The most curious Cryptographies in the history of mankind can quote a cryptography caused by the greatest Roman military leader Julius Caesar to communicate with his generals.
 
 This encryption is based on replacing the letter of the advanced alphabet with a certain number of places.
 
@@ -17,9 +18,11 @@ Normal: the slight brown fox jumped on the tired dog
 Encrypted: d oljhlud udsrvd pduurp vdowrx vreuh r fdfkruur fdqvdgr
 
 
-######################################################################################################
-######################################  PORTUGUESE VERSION  ##########################################
-######################################################################################################
+################################################################################################
+
+#####  PORTUGUESE VERSION  #####
+
+################################################################################################
 # cifraDeCésar
 
 Trabalhando com Criptografia
